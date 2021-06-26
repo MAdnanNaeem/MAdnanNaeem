@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MAdnanNaeem and studying Software Engineering.
+- 👋 Hi, I’m @MAdnanNaeem and student of Software Engineering department.
 - 👀 I’m interested in Computer-Programming, Analysis of Algorithm, Web Development(MEAN & MERN), Windows Form Application C#, ASPN.Net & Flutter/Dart. 
 - 🌱 I’m currently learning ReactNative & Web Developing (HTML, CSS, Js(bootstraps), React, and NodeJs).
 - 💞️ I’m looking to collaborate on Web Development(MEAN) & Mobile Application development(RN).
