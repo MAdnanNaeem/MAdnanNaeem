@@ -53,7 +53,6 @@
 <br /> 
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MAdnanNaeem&repo=Star-Technical-.Net-Framework)](https://github.com/MAdnanNaeem/Blood-Donation-App.git)
 
 
 ---
