@@ -6,6 +6,10 @@
 - 💞️ I’m looking to collaborate on Web Development(MEAN) & Mobile Application development(RN).
 - 📫 U can get in touch with me on the following platforms
 
+<br /> 
+<br />
+<br /> 
+
 ### Connect with me:
 
 [<img align="left" alt="Pinterest    | Pinterest" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/pinterest.svg" />][pinterest]
@@ -14,6 +18,10 @@
 [<img align="left" alt="LinkedIn     | LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram    | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
+
+<br /> 
+<br />
+<br /> 
 
 ### Languages and Tools:
 
