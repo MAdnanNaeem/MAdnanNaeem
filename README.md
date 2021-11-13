@@ -56,9 +56,10 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAdnanNaeem&layout=compact)](MAdnanNaeem/.Net-Framework-Projects.git)
-  
 </details> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAdnanNaeem&layout=compact)](MAdnanNaeem/.Net-Framework-Projects.git)
+
 
 [pinterest]: https://www.pinterest.com/madnan_naeem/
 [facebook]: https://web.facebook.com/MAdnanNaeem/
