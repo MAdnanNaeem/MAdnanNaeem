@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning ReactNative & Web Developing (HTML, CSS, Js(bootstraps), React, and NodeJs).
 - 💞️ I’m looking to collaborate on Web Development(MEAN) & Mobile Application development(RN).
 - 📫 U can get in touch with me on the following platforms
-<br /> 
 
 ### Connect with me:
 
@@ -15,7 +14,6 @@
 [<img align="left" alt="LinkedIn     | LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram    | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
-<br /> 
 
 
 ### Languages and Tools:
@@ -57,10 +55,12 @@
 ---
 
 </details> 
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAdnanNaeem&layout=compact)](MAdnanNaeem/.Net-Framework-Projects.git)
 
-
+---
 [pinterest]: https://www.pinterest.com/madnan_naeem/
 [facebook]: https://web.facebook.com/MAdnanNaeem/
 [twitter]: https://twitter.com/madnannaeem
