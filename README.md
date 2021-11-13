@@ -14,7 +14,7 @@
 [<img align="left" alt="LinkedIn     | LinkedIn"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram    | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
-
+<br />
 
 ### Languages and Tools:
 
@@ -52,9 +52,7 @@
 <br />
 <br /> 
 
----
 
-<br />
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAdnanNaeem&layout=compact)](MAdnanNaeem/.Net-Framework-Projects.git)
