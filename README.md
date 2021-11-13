@@ -39,8 +39,7 @@
   <summary>:zap: GitHub Stats</summary>
 <br /> 
    
-  <img align="left" alt="Adnan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MAdnanNaeem&show_icons=true&hide_border=true&theme=dark" />
-</details> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAdnanNaeem&layout=compact)](MAdnanNaeem/.Net-Framework-Projects.git)
 
 <br /> 
 <br />
@@ -54,8 +53,9 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAdnanNaeem&layout=compact)](MAdnanNaeem/.Net-Framework-Projects.git)
 
+  <img align="left" alt="Adnan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MAdnanNaeem&show_icons=true&hide_border=true&theme=dark" />
+</details> 
 
 [pinterest]: https://www.pinterest.com/madnan_naeem/
 [facebook]: https://web.facebook.com/MAdnanNaeem/
