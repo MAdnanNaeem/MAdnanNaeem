@@ -37,7 +37,7 @@
 ---
 
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 <br /> 
    <img align="left" alt="Adnan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MAdnanNaeem&show_icons=true&hide_border=true&theme=dark" />
@@ -54,7 +54,6 @@
 
 ---
 
-</details> 
 <br />
 <br />
 
