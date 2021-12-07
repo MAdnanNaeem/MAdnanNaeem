@@ -1,4 +1,4 @@
-   ### AslamOAlikum / Hi there 🤝
+   ### Aslam-O-Alikum / Hi there 🤝
 - 😇 I'm M Adnan Naeem
 - 🧑‍🎓 I’m a student of Software Engineering department.
 - 👀 I’m interested in Programming, Analysis of Algorithm, Web Dev (MEAN & MERN), Windows Form Application C# & Flutter+Dart. 
