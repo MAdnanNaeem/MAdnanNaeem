@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Aslam-O-Alikum <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center" style="padding-top: 20px;" >I'm passionate to be a Full Stack Developer. </h3>
+<h3 align="center" style="padding-top: 20px;" >I'm passionate to be a Full Stack Developer. 🧑‍💻 </h3>
 
 ## 🙋‍♂️ About Me
 
@@ -90,10 +90,8 @@
 </a>
 <a href="https://github.com/MAdnanNaeem?tab=followers"><img src="https://img.shields.io/github/followers/MAdnanNaeem?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<br>
 
-📊 **This week, I spent my time on:**
+<!-- 📊 **This week, I spent my time on:** -->
 
 <!-- START_SECTION:waka-->
-
 <!--END_SECTION:waka -->
