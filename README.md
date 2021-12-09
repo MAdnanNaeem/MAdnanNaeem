@@ -1,9 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="adnantext.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="main_banner.png" height="175px"/></a>
 
 <!-- src="https://i.imgur.com/iXuL1HG.png" -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center" style="padding-top: 20px;" > <img src="adnanposter.png"> </h3>
+<h3 align="center" style="padding-top: 20px;" > <img src="sec_text.png"> </h3>
 
 <!-- I'm passionate to be a Full Stack Developer. 🧑‍💻 -->
 
