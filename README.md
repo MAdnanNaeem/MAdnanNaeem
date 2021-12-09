@@ -84,7 +84,7 @@
 <a href="https://www.pinterest.com/madnan_naeem/"><img src="https://img.icons8.com/color/48/000000/pinterest.png"/></a>
 
 </p>
-
+<br>
 
 ## ❤ Views and Followers
 <a href="https://github.com/MAdnanNaeem/github-profile-views-counter">
