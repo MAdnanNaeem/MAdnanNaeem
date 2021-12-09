@@ -93,4 +93,17 @@
 <a href="https://github.com/MAdnanNaeem?tab=followers"><img src="https://img.shields.io/github/followers/MAdnanNaeem?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
+📊 **this week i spent my time on:**
+
+<!--START_SECTION:waka-->
+
+```text
+HTML         5 hrs 18 mins   █████████████▓░░░░░░░░░░░   54.90 %
+JSX          2 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
+TypeScript   1 hr 6 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+JavaScript   1 hr 1 min      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+```
+
+<!--END_SECTION:waka-->
 
