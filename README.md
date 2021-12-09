@@ -82,7 +82,6 @@
 <a href="https://www.pinterest.com/madnan_naeem/"><img src="https://img.icons8.com/color/48/000000/pinterest.png"/></a>
 
 </p>
-<br>
 
 ## ❤ Views and Followers
 
@@ -90,6 +89,8 @@
     <img src="https://komarev.com/ghpvc/?username=MAdnanNaeem">
 </a>
 <a href="https://github.com/MAdnanNaeem?tab=followers"><img src="https://img.shields.io/github/followers/MAdnanNaeem?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<br>
 
 📊 **This week, I spent my time on:**
 
