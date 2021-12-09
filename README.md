@@ -87,5 +87,4 @@
 <a>
 <br>
     <img src="https://komarev.com/ghpvc/?username=MAdnanNaeem">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/MAdnanNaeem?label=Followers&style=social" alt="GitHub Badge"></a>
+</a><a><img src="https://img.shields.io/github/followers/MAdnanNaeem?label=Followers&style=social" alt="GitHub Badge"></a>
