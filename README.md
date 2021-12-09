@@ -78,7 +78,7 @@
 
 ## Support
 
-<p><a href="https://ko-fi.com/M Adnan Naeem"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="M Adnan Naeem" /></a></p><br><br>
+<p><a href="#"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="M Adnan Naeem" /></a></p><br><br>
 <br>
 
 ## Connect with me:
@@ -96,6 +96,6 @@
 ## ❤ Views and Followers
 
 <a href="https://github.com/MAdnanNaeem/github-profile-views-counter">
-    <img height="30px" src="https://komarev.com/ghpvc/?username=MAdnanNaeem">
+    <img height="20px" src="https://komarev.com/ghpvc/?username=MAdnanNaeem">
 </a>
-<a style="margin-left:15px;" href="https://github.com/MAdnanNaeem?tab=followers"><img height="30px" src="https://img.shields.io/github/followers/MAdnanNaeem?label=Followers&style=social" alt="GitHub Badge"></a>
+<a style="margin-left:15px;" href="https://github.com/MAdnanNaeem?tab=followers"><img height="20px" src="https://img.shields.io/github/followers/MAdnanNaeem?label=Followers&style=social" alt="GitHub Badge"></a>
