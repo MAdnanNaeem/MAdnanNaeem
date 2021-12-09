@@ -1,16 +1,16 @@
-<a href="#"><img width="100%" height="auto" src="" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="main_banner.png" height="175px"/></a>
 
 <!-- src="https://i.imgur.com/iXuL1HG.png" -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center" style="padding-top: 20px;" > <img src=""> </h3>
+<h1 align="center">Hello there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center" style="padding-top: 20px;" > <img src="secondary-text.png"> </h3>
 
 <!-- I'm passionate to be a Full Stack Developer. 🧑‍💻 -->
 
 ## 🙋‍♂️ About Me
 
 - 😇 I'm **[M Adnan Naeem](https://www.linkedin.com/in/MAdnanNaeem/)**
-- 🧑‍🎓 I’m a student of **[Software Engineering](#)**
+- 🧑‍🎓 I’m a student of **[Software Engineering Department](#)**
 - 👨‍💻 I’m currently working on **[E-Commerce](#)**
 
 - 🌱 I’m currently learning **[MERN-Stack](#)**
