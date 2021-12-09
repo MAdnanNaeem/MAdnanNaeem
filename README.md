@@ -46,8 +46,8 @@
 <br/>
 
 <p align="center">
-    <a>
-       ## ⚡ My Streak
+   ### ⚡ My Streak
+    <a>     
         <img title="🔥M Adnan Naeem's streak " alt="M Adnan Naeem's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MAdnanNaeem&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -81,6 +81,4 @@
 </p>
 
 ## ❤ Views and Followers
-<a>
-    <img src="https://komarev.com/ghpvc/?username=MAdnanNaeem"> <img src="https://img.shields.io/github/followers/MAdnanNaeem?label=Followers&style=social" alt="GitHub Badge">
-</a>
+
