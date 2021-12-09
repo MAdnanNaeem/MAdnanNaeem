@@ -67,6 +67,12 @@
 
 <br/>
 
+
+## Support
+
+<p><a href="https://ko-fi.com/M Adnan Naeem"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="M Adnan Naeem" /></a></p><br><br>
+<br>
+
 ## Connect with me:
 
 <p align="left">
@@ -79,12 +85,6 @@
 
 </p>
 
-
-
-## Support
-
-<p><a href="https://ko-fi.com/M Adnan Naeem"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="M Adnan Naeem" /></a></p><br><br>
-<br>
 
 ## ❤ Views and Followers
 <a href="https://github.com/MAdnanNaeem/github-profile-views-counter">
