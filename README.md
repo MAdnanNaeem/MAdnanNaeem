@@ -1,7 +1,7 @@
-<a href="#"><img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47854ccrcgf5a4jcrkgsaf0xvf8948ro4sfis3z2s7&rid=giphy.gif&ct=s"/></a>
+<a href="#"><img height="175px" src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47854ccrcgf5a4jcrkgsaf0xvf8948ro4sfis3z2s7&rid=giphy.gif&ct=s"/></a>
 
 <h1 align="center">Aslam-O-Alikum <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center" style="" >I'm passionate to be a Full Stack Developer.</h3>
+<h3 align="center" style="" >I'm passionate to be a Full Stack Developer. <img style="position: absolute; " height="35px" src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47854ccrcgf5a4jcrkgsaf0xvf8948ro4sfis3z2s7&rid=giphy.gif&ct=s"/> </h3>
 
 ## 🙋‍♂️ About Me
 
