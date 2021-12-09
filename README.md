@@ -65,7 +65,6 @@
 
 <a><img alt="M Adnan Naeem's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MAdnanNaeem&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
 
 ## Support
 
@@ -92,9 +91,7 @@
 </a>
 <a href="https://github.com/MAdnanNaeem?tab=followers"><img src="https://img.shields.io/github/followers/MAdnanNaeem?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<br>
-
-📊 **this week i spent my time on:**
+📊 **This week, I spent my time on:**
 
 <!-- START_SECTION:waka-->
 
