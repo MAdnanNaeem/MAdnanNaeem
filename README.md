@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Aslam-O-Alikum <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center" style="" >I'm a passionate to be a Full Stack Developer.</h3>
+<h3 align="center" style="" >I'm passionate to be a Full Stack Developer.</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **[madnannaeem@pm.me](#)**
 
-- ⚡ Fun fact **[Valorant](https://playvalorant.com/).**
+- ⚡ Fun fact, I Play **[Valorant](https://playvalorant.com/).**
 
 <br>
 
