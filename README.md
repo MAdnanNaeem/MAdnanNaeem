@@ -1,6 +1,8 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="adnantext.png" height="175px"/></a>
 
-<h1 align="center">Aslam-O-Alikum <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<!-- src="https://i.imgur.com/iXuL1HG.png" -->
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center" style="padding-top: 20px;" >I'm passionate to be a Full Stack Developer. 🧑‍💻 </h3>
 
 ## 🙋‍♂️ About Me
@@ -65,7 +67,6 @@
 
 <a><img alt="M Adnan Naeem's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MAdnanNaeem&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-
 ## Support
 
 <p><a href="https://ko-fi.com/M Adnan Naeem"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="M Adnan Naeem" /></a></p><br><br>
@@ -89,7 +90,6 @@
     <img src="https://komarev.com/ghpvc/?username=MAdnanNaeem">
 </a>
 <a href="https://github.com/MAdnanNaeem?tab=followers"><img src="https://img.shields.io/github/followers/MAdnanNaeem?label=Followers&style=social" alt="GitHub Badge"></a>
-
 
 <!-- 📊 **This week, I spent my time on:** -->
 
