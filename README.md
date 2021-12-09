@@ -85,6 +85,5 @@
 
 <a>
 <br>
-    <img src="https://komarev.com/ghpvc/?username=MAdnanNaeem">
+    <img src="https://komarev.com/ghpvc/?username=MAdnanNaeem"> <img src="https://img.shields.io/github/followers/MAdnanNaeem?label=Followers&style=social" alt="GitHub Badge">
 </a>
-<a ><img src="https://img.shields.io/github/followers/MAdnanNaeem?label=Followers&style=social" alt="GitHub Badge"></a>
