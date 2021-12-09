@@ -71,7 +71,7 @@
 
 ## Support
 
-<p><a> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="M Adnan Naeem" /></a></p><br><br>
+<p><a href="#" > <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" width="150" alt="M Adnan Naeem" /></a></p><br><br>
 <br>
 
 ## Connect with me:
