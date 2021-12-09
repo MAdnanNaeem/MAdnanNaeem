@@ -46,8 +46,7 @@
 <br/>
 
 <p align="center">
- 
-    <a>     
+    <a>
         <img title="🔥M Adnan Naeem's streak " alt="M Adnan Naeem's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MAdnanNaeem&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
