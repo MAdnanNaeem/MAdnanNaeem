@@ -69,6 +69,8 @@
 
 <a><img alt="M Adnan Naeem's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MAdnanNaeem&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
+<br>
+
 📊 **This week, I spent my time on:** 
 
 <!--START_SECTION:waka-->
