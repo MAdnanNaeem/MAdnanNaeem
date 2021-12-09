@@ -93,5 +93,4 @@
 <a href="https://github.com/MAdnanNaeem?tab=followers"><img src="https://img.shields.io/github/followers/MAdnanNaeem?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/WFZvB7VIXBgiz3oDXE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/iykra-pc-mac-laptop-WFZvB7VIXBgiz3oDXE">via GIPHY</a></p>
-
+https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47854ccrcgf5a4jcrkgsaf0xvf8948ro4sfis3z2s7&rid=giphy.gif&ct=s
