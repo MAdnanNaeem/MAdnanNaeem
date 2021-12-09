@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **[madnannaeem@pm.me](#)**
 
-- ⚡ Fun fact, I Play **[Valorant](https://playvalorant.com/).**
+- ⚡ Fun fact, I Play **[Valorant](https://playvalorant.com/)**
 
 <br>
 
@@ -79,14 +79,16 @@
 
 </p>
 
+
+
+## Support
+
+<p><a href="https://ko-fi.com/M Adnan Naeem"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="M Adnan Naeem" /></a></p><br><br>
+<br>
+
 ## ❤ Views and Followers
 <a href="https://github.com/MAdnanNaeem/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=MAdnanNaeem">
 </a>
 <a href="https://github.com/MAdnanNaeem?tab=followers"><img src="https://img.shields.io/github/followers/MAdnanNaeem?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<br>
-
-## Support
-
-<p><a href="https://ko-fi.com/M Adnan Naeem"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="M Adnan Naeem" /></a></p><br><br>
