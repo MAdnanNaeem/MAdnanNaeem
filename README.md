@@ -80,4 +80,8 @@
 </p>
 
 ## ❤ Views and Followers
+<a href="https://github.com/MAdnanNaeem/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MAdnanNaeem">
+</a>
+<a href="https://github.com/MAdnanNaeem?tab=followers"><img src="https://img.shields.io/github/followers/MAdnanNaeem?label=Followers&style=social" alt="GitHub Badge"></a>
 
