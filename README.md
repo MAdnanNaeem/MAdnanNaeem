@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 😇 I'm M Adnan Naeem
+- 😇 I'm **[M Adnan Naeem](https://www.linkedin.com/in/MAdnanNaeem/)**
 - 🧑‍🎓 I’m a student of **[Software Engineering](#)**
 - 👨‍💻 I’m currently working on **[E-Commerce](#)**
 
@@ -13,11 +13,11 @@
 
 - 👯 I’m looking to collaborate on **[Web Development Projects](#)**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
+- 👨‍💻 All of my projects are available at **[My Github](https://github.com/MAdnanNaeem?tab=repositories)**
 
 - 📫 How to reach me **[madnannaeem@pm.me](#)**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **[Valorant](https://playvalorant.com/).**
 
 <br>
 
