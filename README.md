@@ -71,8 +71,6 @@
 
 <br>
 
-<p><img src="track.md"></p>
-
 📊 **This week, I spent my time on:**
 
 <!--START_SECTION:waka-->
