@@ -77,7 +77,10 @@
 ```text
 Week: 03 December, 2021 - 09 December, 2021
 
-Markdown   1 hr 42 mins    █████████████████████████   100.00 % 
+Markdown     2 hrs 12 mins   █████████████████░░░░░░░░   67.94 % 
+JavaScript   57 mins         ███████▒░░░░░░░░░░░░░░░░░   29.37 % 
+HTML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 <!--END_SECTION:waka-->
 
