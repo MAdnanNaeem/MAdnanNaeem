@@ -75,7 +75,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 December, 2021 - 09 December, 2021
+Week: 04 December, 2021 - 10 December, 2021
 
 Markdown     2 hrs 12 mins   █████████████████░░░░░░░░   67.94 % 
 JavaScript   57 mins         ███████▒░░░░░░░░░░░░░░░░░   29.37 % 
