@@ -22,7 +22,7 @@
 - 📫 How to reach me **[madnannaeem@pm.me](#)**
 
 - ⚡ Fun fact, I Play **[Valorant](https://playvalorant.com/)**
-- 💞 Life line, 🥀 **[رسول الله صلى الله عليه وسلم] 🥀  (https://muslim.sg/articles/prophet-muhammad-s-a-w-as-a-teacher)**
+- 💞 Life line, 🥀 **[رسول الله صلى الله عليه وسلم]** 🥀  (https://muslim.sg/articles/prophet-muhammad-s-a-w-as-a-teacher)**
 
 <br>
 
