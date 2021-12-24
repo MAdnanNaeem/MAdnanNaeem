@@ -10,11 +10,13 @@
 ## 🙋‍♂️ About Me
 
 - 😇 I'm **[M Adnan Naeem](https://www.linkedin.com/in/MAdnanNaeem/)**
-- 💞 Life line, 🥀 **[رسول الله صلى الله عليه وسلم](https://muslim.sg/articles/prophet-muhammad-s-a-w-as-a-teacher)** 🥀
-- 🧑‍🎓 I’m a student of **[Software Engineering Department](#)**
-- 👨‍💻 I’m currently working on **[E-Commerce](#)**
 
 - 💞 Life line, 🥀 **[رسول الله صلى الله عليه وسلم](https://muslim.sg/articles/prophet-muhammad-s-a-w-as-a-teacher)** 🥀
+
+- 🧑‍🎓 I’m a student of **[Software Engineering Department](#)**
+
+- 👨‍💻 I’m currently working on **[E-Commerce](#)**
+
 - 🌱 I’m currently learning **[MERN-Stack](#)**
 
 - 👯 I’m looking to collaborate on **[Web Development Projects](#)**
@@ -23,7 +25,7 @@
 
 - 📫 How to reach me **[madnannaeem@pm.me](#)**
 
-- ⚡ Fun fact, Udemy and freeCodeCamp **[Udemy&freeCodeCamp](https://www.freecodecamp.org/madnannaeem)**
+- ⚡ Fun fact, Learn and Code **[Udemy&freeCodeCamp](https://www.freecodecamp.org/madnannaeem)**
 
 <br>
 
