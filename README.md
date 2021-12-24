@@ -2,7 +2,7 @@
 
 <!-- src="https://i.imgur.com/iXuL1HG.png" -->
 
-<h1 align="center">Hello there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hello there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> 🥀 فِدَاكَ اَبِیْ وَاُمِّیْ وَرُوْحِیْ وَقَلْبِیْ یَاسَیِّدِیْ یَارَسُوْل اللّٰہﷺ  🥀 </h1>
 <h3 align="center" style="padding-top: 20px;" > <img src="secondary-text.png"> </h3>
 
 <!-- I'm passionate to be a Full Stack Developer. 🧑‍💻 -->
