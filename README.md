@@ -79,7 +79,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2021 - 24 December, 2021
+Week: 19 December, 2021 - 25 December, 2021
 
 CSS          6 hrs 6 mins    █████████████░░░░░░░░░░░░   51.40 % 
 HTML         2 hrs 10 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.32 % 
