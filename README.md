@@ -79,12 +79,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 December, 2021 - 04 January, 2022
-
-CSS          37 mins         █████████████████░░░░░░░░   67.34 % 
-Markdown     9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-HTML         7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-JavaScript   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
