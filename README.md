@@ -79,7 +79,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2022 - 18 January, 2022
+Week: 13 January, 2022 - 19 January, 2022
 
 SCSS             12 hrs 2 mins   ███████████████████░░░░░░   76.41 % 
 HTML             3 hrs 4 mins    █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
