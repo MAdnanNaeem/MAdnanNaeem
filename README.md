@@ -15,7 +15,7 @@
 
 - 🧑‍🎓 I’m a student of **[Software Engineering Department](#)**
 
-- 👨‍💻 I’m currently working on **[E-Commerce](#)**
+- 👨‍💻 I’m currently working on **PHP/LARAVEL [E-Commerce](#)**
 
 - 🌱 I’m currently learning **[MERN-Stack](#)**
 
