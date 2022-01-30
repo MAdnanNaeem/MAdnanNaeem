@@ -82,7 +82,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 January, 2022 - 28 January, 2022
+Week: 23 January, 2022 - 29 January, 2022
 
 PHP              15 hrs 7 mins   █████████████░░░░░░░░░░░░   51.84 % 
 Blade Template   12 hrs 8 mins   ██████████▒░░░░░░░░░░░░░░   41.64 % 
