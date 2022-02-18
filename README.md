@@ -84,13 +84,13 @@
 ```text
 Week: 11 February, 2022 - 17 February, 2022
 
-Total: 44 hrs
+Total: 45 hrs 57 mins
 
-Blade Template   24 hrs 11 mins  █████████████▓░░░░░░░░░░░   54.97 % 
-PHP              13 hrs 31 mins  ███████▓░░░░░░░░░░░░░░░░░   30.72 % 
-HTML             2 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-CSS              2 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-JavaScript       51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Blade Template   25 hrs 3 mins   █████████████▓░░░░░░░░░░░   54.51 % 
+PHP              14 hrs 35 mins  ████████░░░░░░░░░░░░░░░░░   31.75 % 
+HTML             2 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+CSS              2 hrs 21 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+JavaScript       51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 <!--END_SECTION:waka-->
 
