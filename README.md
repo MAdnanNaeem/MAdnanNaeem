@@ -84,8 +84,6 @@
 ```text
 Week: 12 February, 2022 - 18 February, 2022
 
-Total: 45 hrs 57 mins
-
 Blade Template   25 hrs 3 mins   █████████████▓░░░░░░░░░░░   54.51 % 
 PHP              14 hrs 35 mins  ████████░░░░░░░░░░░░░░░░░   31.75 % 
 HTML             2 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
