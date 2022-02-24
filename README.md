@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 😇 I'm **[M Adnan Naeem](https://www.linkedin.com/in/MAdnanNaeem/)**
+- 😇 I'm Adnan Naeem **[M Adnan Naeem](https://www.linkedin.com/in/MAdnanNaeem/)**
 
 - 💞 Life line, 🥀 **[رسول الله صلى الله عليه وسلم](https://muslim.sg/articles/prophet-muhammad-s-a-w-as-a-teacher)** 🥀
 
