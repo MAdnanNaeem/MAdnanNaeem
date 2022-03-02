@@ -83,7 +83,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 February 2022 - To: 01 March 2022
+From: 23 February 2022 - To: 02 March 2022
 
 Bash       37 mins         ██████████████▓░░░░░░░░░░   59.03 %
 JSON       8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
