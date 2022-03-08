@@ -83,7 +83,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 February 2022 - To: 07 March 2022
+From: 01 March 2022 - To: 08 March 2022
 
 PHP              1 hr 21 mins    ██████████████████████░░░   87.60 %
 Bash             9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
