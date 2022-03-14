@@ -83,12 +83,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 March 2022 - To: 13 March 2022
+From: 07 March 2022 - To: 14 March 2022
 
-PHP              1 hr 21 mins    ██████████████████████░░░   87.66 %
-Bash             9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
-Blade Template   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
