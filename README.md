@@ -83,11 +83,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 April 2022 - To: 04 May 2022
-
-JavaScript   3 hrs 2 mins    ███████████████████████░░   92.38 %
-JSON         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
