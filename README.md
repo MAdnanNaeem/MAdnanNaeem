@@ -83,9 +83,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 May 2022 - To: 10 May 2022
+From: 04 May 2022 - To: 11 May 2022
 
-JavaScript   14 mins         █████████████████████████   100.00 %
+JavaScript   3 hrs 47 mins   ██████████████░░░░░░░░░░░   55.81 %
+HTML         1 hr 45 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.89 %
+Git Config   21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+SCSS         19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
+JSON         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
