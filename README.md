@@ -83,13 +83,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 May 2022 - To: 26 May 2022
+From: 20 May 2022 - To: 27 May 2022
 
-JavaScript       15 hrs 48 mins  ███████████████░░░░░░░░░░   59.89 %
-Blade Template   6 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   23.40 %
-PHP              2 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
-Bash             1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.37 %
-Other            28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+JavaScript       18 hrs 12 mins  ███████████████▓░░░░░░░░░   63.20 %
+Blade Template   6 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
+PHP              2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
+Bash             1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Other            28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
