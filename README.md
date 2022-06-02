@@ -1,8 +1,8 @@
 <a href="#"><img width="100%" height="auto" src="main_banner.png" height="175px"/></a>
 
 <!-- src="https://i.imgur.com/iXuL1HG.png" -->
-
-<h1 align="center">Hello there!  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> <br><br> 🥀 فِدَاكَ اَبِیْ وَاُمِّیْ وَرُوْحِیْ وَقَلْبِیْ یَاسَیِّدِیْ یَارَسُوْل اللّٰہﷺ  🥀 </h1>
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> -->
+<h1 align="center">Hello there!  <br><br> 🥀 فِدَاكَ اَبِیْ وَاُمِّیْ وَرُوْحِیْ وَقَلْبِیْ یَاسَیِّدِیْ یَارَسُوْل اللّٰہﷺ  🥀 </h1>
 <h3 align="center" style="padding-top: 20px;" > <img src="secondary-text.png"> </h3>
 
 <!-- I'm passionate to be a Full Stack Developer. 🧑‍💻 -->
