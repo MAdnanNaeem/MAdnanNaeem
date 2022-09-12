@@ -83,14 +83,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 September 2022 - To: 11 September 2022
+From: 05 September 2022 - To: 12 September 2022
 
-PHP              7 hrs 16 mins   ███████████████▒░░░░░░░░░   60.86 %
-Blade Template   4 hrs 22 mins   █████████░░░░░░░░░░░░░░░░   36.60 %
-Git Config       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Bash             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-HTML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-JavaScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+PHP              5 hrs 49 mins   ███████████████▒░░░░░░░░░   61.41 %
+Blade Template   3 hrs 18 mins   ████████▓░░░░░░░░░░░░░░░░   34.75 %
+Git Config       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Bash             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+HTML             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
