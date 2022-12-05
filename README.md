@@ -83,14 +83,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 November 2022 - To: 04 December 2022
+From: 28 November 2022 - To: 05 December 2022
 
-Blade Template   16 hrs 5 mins   ███████████████▒░░░░░░░░░   61.99 %
-PHP              9 hrs 28 mins   █████████░░░░░░░░░░░░░░░░   36.51 %
-Git              7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Bash             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
-GitIgnore file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-JSON             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Blade Template   13 hrs 46 mins  ████████████████▒░░░░░░░░   65.39 %
+PHP              6 hrs 56 mins   ████████▒░░░░░░░░░░░░░░░░   32.96 %
+Bash             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+GitIgnore file   5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Git              4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+JSON             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
