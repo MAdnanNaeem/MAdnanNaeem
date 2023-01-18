@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 January 2023 - To: 17 January 2023
+From: 11 January 2023 - To: 18 January 2023
 
-PHP              16 hrs 34 mins  █████████████████▓░░░░░░░   70.35 %
-Blade Template   6 hrs 35 mins   ███████░░░░░░░░░░░░░░░░░░   27.94 %
-Other            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+PHP              18 hrs 55 mins  ████████████████████░░░░░   79.36 %
+Blade Template   4 hrs 31 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
+Other            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
