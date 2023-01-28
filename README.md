@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/MAdnanNaeem?tab=repositories)**
 
-- 📫 How to reach me **[madnannaeem@tuta.io](mailto:madnannaeem@tuta.io)** /  **[madnannaeem@pm.me](mailto:madnannaeem@pm.me)**
+- 📫 How to reach me **[madnannaeem@tuta.io](mailto:madnannaeem@tuta.io)** /  **[madnannaeem@pm.me](mailto:contactme@pak.slmail.me)**
 
 - ⚡ Fun fact, Learn and Code **[Udemy&freeCodeCamp](https://www.freecodecamp.org/madnannaeem)**
 
