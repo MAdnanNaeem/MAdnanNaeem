@@ -83,12 +83,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 February 2023 - To: 06 March 2023
+From: 28 February 2023 - To: 07 March 2023
 
-PHP              13 hrs 55 mins  ██████████████████▓░░░░░░   74.70 %
-Blade Template   3 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.06 %
-Git              40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-Other            26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+PHP              13 hrs 32 mins  █████████████████▓░░░░░░░   70.05 %
+Blade Template   4 hrs 35 mins   ██████░░░░░░░░░░░░░░░░░░░   23.78 %
+Git              52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+JSON             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Other            4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
