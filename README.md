@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2023 - To: 09 August 2023
+From: 03 August 2023 - To: 10 August 2023
 
-PHP              17 hrs 5 mins   ███████████████████▒░░░░░   76.72 %
-Blade Template   5 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
-Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+PHP              15 hrs 9 mins   ███████████████████░░░░░░   76.10 %
+Blade Template   4 hrs 44 mins   ██████░░░░░░░░░░░░░░░░░░░   23.81 %
+Other            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
