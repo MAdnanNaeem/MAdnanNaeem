@@ -83,11 +83,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 October 2023 - To: 16 October 2023
+From: 10 October 2023 - To: 17 October 2023
 
-PHP              2 hrs 57 mins   ███████████████████████░░   92.60 %
-Blade Template   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-Other            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
