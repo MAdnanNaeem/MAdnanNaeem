@@ -83,9 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2023 - To: 02 January 2024
+From: 27 December 2023 - To: 03 January 2024
 
-PHP   5 mins          █████████████████████████   100.00 %
+PHP              5 mins          ████████████████▒░░░░░░░░   65.25 %
+JSON             1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.54 %
+Blade Template   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
 ```
 
 <!--END_SECTION:waka-->
