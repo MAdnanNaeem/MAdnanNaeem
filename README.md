@@ -83,12 +83,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 March 2024 - To: 24 March 2024
+From: 18 March 2024 - To: 25 March 2024
 
-Blade Template   1 hr 44 mins    ██████████████████▒░░░░░░   72.77 %
-PHP              32 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.38 %
-Apache Config    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
-Bash             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+PHP   1 hr 25 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
