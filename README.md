@@ -83,12 +83,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 May 2024 - To: 20 May 2024
+From: 14 May 2024 - To: 21 May 2024
 
-PHP              13 hrs 51 mins  █████████████████████▒░░░   85.08 %
-Blade Template   2 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
-Git              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-Other            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+PHP              14 hrs 16 mins  █████████████████████░░░░   83.66 %
+Blade Template   2 hrs 39 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+Git              5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Other            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
