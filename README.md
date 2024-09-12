@@ -83,10 +83,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2024 - To: 11 September 2024
+From: 05 September 2024 - To: 12 September 2024
 
-Other        4 mins          █████████████████▒░░░░░░░   68.75 %
-PowerShell   2 mins          ███████▓░░░░░░░░░░░░░░░░░   31.25 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
