@@ -83,13 +83,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2024 - To: 19 September 2024
+From: 13 September 2024 - To: 20 September 2024
 
-Astro        1 hr 26 mins    █████████████████▓░░░░░░░   71.06 %
-JavaScript   26 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.60 %
-TypeScript   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-TSConfig     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
