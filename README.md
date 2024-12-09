@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 December 2024 - To: 08 December 2024
+From: 02 December 2024 - To: 09 December 2024
 
-JavaScript   21 hrs 10 mins  ██████████████████████░░░   87.59 %
-HTML         1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
-JSON         59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 %
+JavaScript   21 hrs 14 mins  ██████████████████████░░░   87.60 %
+HTML         1 hr 6 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+JSON         1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
 Other        38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 CSS          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
