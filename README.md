@@ -83,11 +83,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 December 2024 - To: 15 December 2024
+From: 09 December 2024 - To: 16 December 2024
 
-HTML         4 mins          ████████████▓░░░░░░░░░░░░   50.87 %
-JavaScript   3 mins          ███████████▒░░░░░░░░░░░░░   45.44 %
-JSON         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
+HTML   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
