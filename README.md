@@ -2,7 +2,7 @@
 
 <!-- src="https://i.imgur.com/iXuL1HG.png" -->
 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> -->
-<h1 align="center">Hello there!  <br><br> 🥀 فِدَاكَ اَبِیْ وَاُمِّیْ وَرُوْحِیْ وَقَلْبِیْ یَاسَیِّدِیْ یَارَسُوْل اللّٰہﷺ  🥀 </h1>
+<h1 align="center">Hello there!  <br><br>  </h1>
 <h3 align="center" style="padding-top: 20px;" > <img src="secondary-text.png"> </h3>
 
 <!-- I'm passionate to be a Full Stack Developer. 🧑‍💻 -->
@@ -11,15 +11,13 @@
 
 - 😇 I'm **[M Adnan Naeem](https://www.linkedin.com/in/MAdnanNaeem/)**
 
-- 💞 Life line, 🥀 **[رسول الله صلى الله عليه وسلم](https://muslim.sg/articles/prophet-muhammad-s-a-w-as-a-teacher)** 🥀
-
-- 🧑‍🎓 I’m a student of **[Software Engineering Department](#)**
+- 🧑‍🎓 I’m a  **[Software Engineer](#)**
 
 - 👨‍💻 I’m currently working in **[PHP/LARAVEL](#)** on **[E-Commerce](#)**
 
 - 🌱 I’m currently learning **[MERN-Stack](#)**
 
-- 👯 I’m looking to collaborate on **[Web Development Projects](#)**
+- 👯 I’m looking to collaborate on **[Full Stack Development Projects](#)**
 
 - 👨‍💻 All of my projects are available at **[My Github](https://github.com/MAdnanNaeem?tab=repositories)**
 
