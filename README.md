@@ -83,8 +83,8 @@
 ```txt
 From: 05 April 2025 - To: 12 April 2025
 
-JavaScript   19 mins         █████████████████████████   99.50 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+JavaScript   19 mins         ████████████████████████▓   99.05 %
+Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
 ```
 
 <!--END_SECTION:waka-->
