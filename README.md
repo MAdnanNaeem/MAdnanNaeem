@@ -81,10 +81,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 April 2025 - To: 17 April 2025
+From: 11 April 2025 - To: 18 April 2025
 
-JavaScript   1 hr 5 mins     █████████████████████████   99.71 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+JavaScript   1 hr 5 mins     ████████████████▓░░░░░░░░   66.35 %
+HTML         30 mins         ███████▓░░░░░░░░░░░░░░░░░   30.51 %
+CSS          2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
