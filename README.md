@@ -81,11 +81,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 July 2025 - To: 10 July 2025
+From: 04 July 2025 - To: 11 July 2025
 
-PHP              50 mins         █████████████████▒░░░░░░░   69.66 %
-SQL              18 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.04 %
-Blade Template   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+PHP   48 mins         ██████████████████▒░░░░░░   72.81 %
+SQL   17 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
 ```
 
 <!--END_SECTION:waka-->
