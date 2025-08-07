@@ -81,9 +81,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 July 2025 - To: 06 August 2025
+From: 31 July 2025 - To: 07 August 2025
 
-HTML   1 hr 33 mins    █████████████████████████   100.00 %
+Text         2 hrs 12 mins   ████████████░░░░░░░░░░░░░   48.56 %
+HTML         2 hrs 12 mins   ████████████░░░░░░░░░░░░░   48.41 %
+Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
