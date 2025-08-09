@@ -81,12 +81,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2025 - To: 08 August 2025
+From: 02 August 2025 - To: 09 August 2025
 
-Text         3 hrs 30 mins   ███████████████░░░░░░░░░░   59.95 %
-HTML         2 hrs 12 mins   █████████▒░░░░░░░░░░░░░░░   37.62 %
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Text         4 hrs 11 mins   ███████████████████▒░░░░░   76.92 %
+HTML         55 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.07 %
+Other        18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
 ```
 
 <!--END_SECTION:waka-->
