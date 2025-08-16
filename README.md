@@ -81,10 +81,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2025 - To: 15 August 2025
+From: 09 August 2025 - To: 16 August 2025
 
-Text    40 mins         ███████████████████▓░░░░░   78.57 %
-Other   11 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
